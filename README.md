@@ -1,8 +1,18 @@
-# bamalot.github.io
+# Portfolio
 
-#Software Developmet Lifecycle
-https://github.com/Bamalot/cs-250-portfolio
 
-#Full Stack Web App
+## Full Stack Web App
+ 
 https://github.com/Bamalot/blake-hardrick-cs465-fullstack
 
+## Data Structures
+
+https://github.com/Bamalot/cs210-final-project
+
+## Software Developmet Lifecycle
+
+https://github.com/Bamalot/cs-250-portfolio
+
+## Software Design
+
+https://github.com/Bamalot/cs-230-portfolio

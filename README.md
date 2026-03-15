@@ -9,7 +9,7 @@ https://github.com/Bamalot/blake-hardrick-cs465-fullstack
 
 https://github.com/Bamalot/cs210-final-project
 
-## Software Developmet Lifecycle
+## Software Development Lifecycle
 
 https://github.com/Bamalot/cs-250-portfolio
 
